@@ -19,5 +19,9 @@ dotnet sln add API/net
 
 dotnet sln list
 
+### Angular CLI Commands
+  
+
+  ng new {name} routing ? and styling ?
 
   
