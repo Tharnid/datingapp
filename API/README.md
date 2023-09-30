@@ -24,4 +24,5 @@ dotnet sln list
 
   ng new {name} routing ? and styling ?
 
+  ng add ngx-bootstrap
   
